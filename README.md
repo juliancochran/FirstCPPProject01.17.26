@@ -1,6 +1,6 @@
 <h2>*** First C++ Project — Student Instructions ***</h2>
 
-THIS PROJECT INTRODUCES:
+<strong>THIS PROJECT INTRODUCES:</strong><br>
   C++ class design (Student)<br>
   Project structure (.h, .cpp, main.cpp)<br>
   std::vector<br>
