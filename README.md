@@ -1,4 +1,4 @@
-*** First C++ Project — Student Instructions ***
+<h2>*** First C++ Project — Student Instructions ***</h2>
 
 THIS PROJECT INTRODUCES:
   C++ class design (Student)
