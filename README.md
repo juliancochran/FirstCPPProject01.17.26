@@ -20,8 +20,9 @@
 We'll discuss Student.h, Student.cpp, main.cpp, and CMakeLists.txt in class.
 
 <strong>TO BUILD AND RUN THE PROGRAM:</strong><br>
-1. In CLion, click Build > Build Project or click the hammer icon (top right) <img width="35" height="36" alt="image" src="https://github.com/user-attachments/assets/d28ca543-ba38-4833-9c1b-3a3cec8f47b0" />
-2. Click the Run button (top-right) <img width="36" height="31" alt="image" src="https://github.com/user-attachments/assets/bb0e859c-9709-4eb0-9a54-6df8fa762d66" />
+1. In CLion, click Build > Build Project or click the hammer icon (top right) <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad84ccb1-a7f6-442d-a30b-6c6c748da79e" />
+2. Click the Run button (top-right) <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0c7554de-1eb3-4b84-9eb4-8c45fa8b14ff" />
+
 
 <strong>FUNCIONALITY YOU SHOULD NEXT BUILD INTO THIS PROJECT:</strong><br>
 1. Prompt the user to enter new students into the vector in the format: FIRST LAST AGE GRADE GPA (single line, each item separated by a space)
